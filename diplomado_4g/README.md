@@ -5,13 +5,13 @@
 --Presentación del diplomado, instructores y alumnos que participarán.
 -- Swift básico: tipo de datos, estructuras de control, ciclos, struct y class
 >
-- Session 2 (10/08/2020)
+* Session 2 (10/08/2020)
 -- Primer aplicación en iOS (*Hola mundo*)
 -- Uso de controles activos y pasivos (UILabel, UIButton, UISlider)
 -- Manejo de @IBOutlet y @IBAction
 >
 * Session 3 (16/08/2020)
--- UITabbedView
+-  UITabbedView
 -- Introducción a los protocolos
 -- Herencia
 -- Polimorfismo
@@ -29,3 +29,8 @@
 
 ### File list
 1. Segue.zip: Contiene el código del carrito desarrollado en clase (17/08/2020)
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
