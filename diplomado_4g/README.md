@@ -1,4 +1,5 @@
-# Diplomado de desarrollo de aplicaciones móviles, *Cuarta Generación*
+## Diplomado de desarrollo de aplicaciones móviles
+## Cuarta Generación
 >
 ### Log Class
 * Session 1 (09/08/2020)
