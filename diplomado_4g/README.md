@@ -2,7 +2,7 @@
 >
 ### Log Class
 * Session 1 (09/08/2020)
-  -Presentación del diplomado, instructores y alumnos que participarán.
+  - Presentación del diplomado, instructores y alumnos que participarán.
   - Swift básico: tipo de datos, estructuras de control, ciclos, struct y class
 >
 * Session 2 (10/08/2020)
