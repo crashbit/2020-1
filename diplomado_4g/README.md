@@ -29,8 +29,3 @@
 
 ### File list
 1. Segue.zip: Contiene el código del carrito desarrollado en clase (17/08/2020)
-
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
