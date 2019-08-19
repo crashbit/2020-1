@@ -1,4 +1,5 @@
 ##Diplomado de desarrollo de aplicaciones móviles, **Cuarta Generación**
+>
 ###Log Class
 - Session 1
 -- Presentación del diplomado, instructores y alumnos que participarán.
