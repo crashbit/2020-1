@@ -1,22 +1,22 @@
 # Diplomado de desarrollo de aplicaciones móviles, **Cuarta Generación**
 >
 ### Log Class
-- Session 1
+* Session 1 (09/08/2020)
 --Presentación del diplomado, instructores y alumnos que participarán.
 -- Swift básico: tipo de datos, estructuras de control, ciclos, struct y class
 >
-- Session 2
+- Session 2 (10/08/2020)
 -- Primer aplicación en iOS (*Hola mundo*)
 -- Uso de controles activos y pasivos (UILabel, UIButton, UISlider)
 -- Manejo de @IBOutlet y @IBAction
 >
-- Session 3
+* Session 3 (16/08/2020)
 -- UITabbedView
 -- Introducción a los protocolos
 -- Herencia
 -- Polimorfismo
 >
-- Session 4
+* Session 4 (17/08/2020)
 -- Utilización de protocolos
 -- Introducción al patrón delegate
 -- Patrón: Model-View-Controller
