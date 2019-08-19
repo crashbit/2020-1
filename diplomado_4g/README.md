@@ -1,8 +1,8 @@
 # Diplomado de desarrollo de aplicaciones móviles, **Cuarta Generación**
 >
-###Log Class
+### Log Class
 - Session 1
--- Presentación del diplomado, instructores y alumnos que participarán.
+--Presentación del diplomado, instructores y alumnos que participarán.
 -- Swift básico: tipo de datos, estructuras de control, ciclos, struct y class
 >
 - Session 2
@@ -27,5 +27,5 @@
 ---- Inyección de código por variable, struct y objeto
 -- funciones viewDidLoad, viewWillAppear
 
-###File list
+### File list
 1. Segue.zip: Contiene el código del carrito desarrollado en clase (17/08/2020)
