@@ -27,15 +27,17 @@
    - Inyección de código por variable, struct y objeto
    - funciones viewDidLoad, viewWillAppear
 >
-* Session 6 (23/08/2020)
+* Session 5 (23/08/2020)
   - Introducción y manejo de UIAlertController
   - Introducción y manejo de UIAlertAction
   - Borrado de elementos de una tabla
   - Uso de tableview.reload()
   - Uso de UITableViewController
   - Introducción a *extension*
+  - Uso de UIContextualAction. UIContextualConfiguration
+  - Uso de UISwipeActionsConfiguration
 >
-* Session 5 (24/08/2020)
+* Session 6 (24/08/2020)
   - Manejo de UINavigationController
   - Uso de UserDefaults.standard
   - Uso de performSegue
