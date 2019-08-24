@@ -27,7 +27,7 @@
    - Inyección de código por variable, struct y objeto
    - funciones viewDidLoad, viewWillAppear
 >
-* Session 5 (23/08/2020)
+* Session 6 (23/08/2020)
   - Introducción y manejo de UIAlertController
   - Introducción y manejo de UIAlertAction
   - Borrado de elementos de una tabla
