@@ -26,6 +26,35 @@
    - Diferencias entre referenciar objetos y crear objetos
    - Inyección de código por variable, struct y objeto
    - funciones viewDidLoad, viewWillAppear
+>
+* Session 5 (23/08/2020)
+  - Introducción y manejo de UIAlertController
+  - Introducción y manejo de UIAlertAction
+  - Borrado de elementos de una tabla
+  - Uso de tableview.reload()
+  - Uso de UITableViewController
+  - Introducción a *extension*
+  - Uso de UIContextualAction. UIContextualConfiguration
+  - Uso de UISwipeActionsConfiguration
+>
+* Session 6 (24/08/2020)
+  - Manejo de UINavigationController
+  - Uso de UserDefaults.standard
+  - Uso de performSegue
+  - Serialización
+  - Codable
+  - Desarrollo de una aplicación de autenticación y creación de usuarios
+>
+* Session 7 (30/08/2020)
+  - Presentación de propuestas de proyectos
+  - Singleton
+  - JSON
+  - Introducción al consumo de API´s (itunes)
+  - Codable
+  - Desarrollo de una aplicación que muestra el catalogo de musica de Apple Music
+  - Uso de searchController
+  - Delegado por código
+   
 
 ### File list
 1. Segue.zip: Contiene el código del carrito desarrollado en clase (17/08/2020)
