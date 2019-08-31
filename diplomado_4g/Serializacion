@@ -1,0 +1,34 @@
+import UIKit
+
+struct User : Codable {
+    var name: String
+}
+
+let KeyForUserDefaults = "savedUser"
+
+func save(_ users: [User]) {
+    let data = users.map { try? JSONEncoder().encode($0) }
+    UserDefaults.standard.set(data, forKey: KeyForUserDefaults)
+}
+
+func load() -> [User] {
+    guard let encodedData = UserDefaults.standard.array(forKey: KeyForUserDefaults) as? [Data] else {
+        return []
+    }
+    
+    return encodedData.map { try! JSONDecoder().decode(User.self, from: $0) }
+}
+
+let jerry = User(name: "Jerry")
+let chofis = User(name: "Chofis")
+
+let users = [jerry, chofis]
+
+save(users)
+
+
+let usersLoaded = load()
+for user in users{
+    print(user.name
+    )
+}
