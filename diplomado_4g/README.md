@@ -44,6 +44,16 @@
   - Serialización
   - Codable
   - Desarrollo de una aplicación de autenticación y creación de usuarios
+>
+* Session 7 (30/08/2020)
+  - Presentación de propuestas de proyectos
+  - Singleton
+  - JSON
+  - Introducción al consumo de API´s (itunes)
+  - Codable
+  - Desarrollo de una aplicación que muestra el catalogo de musica de Apple Music
+  - Uso de searchController
+  - Delegado por código
    
 
 ### File list
