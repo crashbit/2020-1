@@ -54,7 +54,28 @@
   - Desarrollo de una aplicación que muestra el catalogo de musica de Apple Music
   - Uso de searchController
   - Delegado por código
-   
+>
+* Session 8 (31/08/2020)
+  - Código para hacer animaciones básicas
+  - UIView.animate
+  - Springs
+  - UICollectionView, UICollectionViewController
+  - UICollectionViewCell
+>
+* Session 9 (06/09/2020)
+  - Instalación y presentación de cocoapods
+  - Presentación de Firebase
+  - Instalación de framework de firebase por cocoapods
+  - Creación de usuarios por medio de firebase
+  - Desarrollo de vistas de autenticación de usuario y paso a tableview una vez autenticado
+>
+* Session 10 (07/09/2020)
+  - Desarrollo de un CRUD de productos
+  - Explicación del patrón de diseño Observer
+  - Explicación del de los listeners de Firebase
+  - Uso de UIImagePickerView y acceso a la galeria de fotos
+  - Crear, editar, actualizar y borrar datos en firebase desde el framework para iOS
+  - Subir una imagen a firebase storage y ligarla a la base de datos noSQL
 
 ### File list
 1. Segue.zip: Contiene el código del carrito desarrollado en clase (17/08/2020)
