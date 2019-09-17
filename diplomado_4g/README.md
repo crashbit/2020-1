@@ -76,6 +76,19 @@
   - Uso de UIImagePickerView y acceso a la galeria de fotos
   - Crear, editar, actualizar y borrar datos en firebase desde el framework para iOS
   - Subir una imagen a firebase storage y ligarla a la base de datos noSQL
-
+>
+* Session 11 (13/09/2020)
+  - Resolución del CRUD de productos
+  - Se instaló FirebaseUI
+  - Se hablo de lottie para animaciones
+  - Uso de funciones genericas y tipos de datos genéricos
+>
+* Session 12 (14/09/2020)
+  - Uso de extensions
+  - Ejercicios sobre el uso de archivos XIB, como UIView y como UITableViewCell
+  - Uso de extensiones para su uso en la organización de código
+  - Manejo y teoría de CoreLocation Services
+  - Introducción a Mapkit
+>
 ### File list
 1. Segue.zip: Contiene el código del carrito desarrollado en clase (17/08/2020)
