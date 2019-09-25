@@ -90,12 +90,12 @@
   - Manejo y teoría de CoreLocation Services
   - Introducción a Mapkit
 >
-* Session 13 (14/09/2019)
+* Session 13 (20/09/2019)
   - Primera evaluación en línea
   - Presentación del profesor del módulo de intermedio
   - Introducción al desarrollo de apps de forma programática
 >
-* Session 14 (14/09/2019)
+* Session 14 (21/09/2019)
   - Continuación con el desarrollo de aplicaciones programáticas
   - Registro de componentes y celdas para su uso en tableView
   - Paso de vistas a través de pushViewController y popViewController
